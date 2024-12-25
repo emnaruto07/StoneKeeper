@@ -2,7 +2,7 @@
 
 This is the repository for the StoneKeeper command-and-control framework, an experimental EDR evasion framework for research purposes.
 
-#[thanos](img/thanos.jpg)
+![thanos](img/thanos.jpg)
 
 ## Background
 
